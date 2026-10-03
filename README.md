@@ -1,4 +1,6 @@
 # CrackHolograms
+🌐 Modrinth
+https://modrinth.com/plugin/crackholograms
 
 **CrackHolograms** is a lightweight and easy-to-use hologram plugin for Minecraft Paper servers.
 
