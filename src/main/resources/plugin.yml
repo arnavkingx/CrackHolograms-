@@ -1,0 +1,36 @@
+name: CrackHolograms
+version: 1.0.0
+main: me.arnav.crackholograms.CrackHolograms
+api-version: '1.21'
+
+author: Arnav
+description: Modern, lightweight and customizable hologram plugin for Minecraft servers.
+
+commands:
+  holo:
+    description: Main CrackHolograms command
+    usage: /holo <subcommand>
+    aliases:
+      - hologram
+      - holograms
+
+permissions:
+  crackholograms.admin:
+    description: Full access to CrackHolograms
+    default: op
+
+  crackholograms.create:
+    description: Create holograms
+    default: op
+
+  crackholograms.delete:
+    description: Delete holograms
+    default: op
+
+  crackholograms.edit:
+    description: Edit holograms
+    default: op
+
+  crackholograms.reload:
+    description: Reload CrackHolograms
+    default: op
