@@ -1,0 +1,14 @@
+# ==========================================================
+# CrackHolograms - Holograms
+# ==========================================================
+
+holograms: {}
+holograms:
+  welcome:
+    world: world
+    x: 0.5
+    y: 65.0
+    z: 0.5
+    lines:
+      - "&6&lCRACKPIXEL"
+      - "&fWelcome to the server!"
