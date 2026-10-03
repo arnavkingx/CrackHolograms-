@@ -1,0 +1,56 @@
+# ==========================================================
+# CrackHolograms Configuration
+# ==========================================================
+
+settings:
+
+  # Enable debug messages in console
+  debug: false
+
+  # Automatically save holograms
+  auto-save: true
+
+  # Auto-save interval in seconds
+  save-interval: 300
+
+
+holograms:
+
+  # Default hologram view distance
+  view-distance: 48.0
+
+  # Space between hologram lines
+  line-spacing: 0.25
+
+
+format:
+
+  # Enable Minecraft & color codes
+  color-codes: true
+
+  # Enable hexadecimal colors
+  hex-colors: true
+
+  # Enable MiniMessage formatting
+  minimessage: true
+
+
+features:
+
+  # PlaceholderAPI support
+  placeholderapi: true
+
+  # Enable animated holograms
+  animations: true
+
+  # Enable click actions
+  click-actions: true
+
+
+performance:
+
+  # Update interval for dynamic holograms
+  update-interval: 20
+
+  # Load holograms asynchronously when possible
+  async-loading: true
